@@ -50,6 +50,7 @@ Controls:
 
 📜 Credits
 
-    Art: Kenney.nl (CC0 Assets)
+    
 
-    Developer: [Your Name] & Gemini AI
+    Developer: Orest Zogju
+    
